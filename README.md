@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently studying computer science at EPITA in my second year.
 
+
+[![](https://visitcount.itsvg.in/api?id=Nchpg&icon=0&color=0)](https://visitcount.itsvg.in)
 <img
   src="https://wakatime.com/badge/user/2dbdfe13-2059-44c8-95d4-e7dca9aafe16.svg"
   alt="Avinal WakaTime Activity"
