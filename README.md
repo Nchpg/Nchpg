@@ -21,6 +21,9 @@ I'm currently studying computer science at EPITA in my second year.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nchpg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 [![](https://visitcount.itsvg.in/api?id=Nchpg&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
