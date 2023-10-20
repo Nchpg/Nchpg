@@ -20,6 +20,6 @@ I'm currently studying computer science at EPITA in my second year.
 
 # 📊 Stats:
 
-<a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nchpg&layout=compact&langs_count=6&card_width=320&theme=dark" /></a>
+<a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nchpg&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true" /></a>
 
-<a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nchpg&layout=compact&langs_count=6&card_width=320&theme=dark" /></a>
+<a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nchpg&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true" /></a>
