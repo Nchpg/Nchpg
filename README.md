@@ -29,12 +29,10 @@ I'm currently studying computer science at EPITA in my second year.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nchpg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nchpg&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nchpg&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nchpg&layout=compact&langs_count=8&card_width=320&theme=dark" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nchpg&layout=compact&langs_count=8&card_width=320&theme=dark" />
+
 
 
 
