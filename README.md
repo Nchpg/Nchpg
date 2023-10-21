@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm currently studying computer science at EPITA in my second year.
 
-## 🌐 Socials:
 <a href="https://discord.gg/Nchpg#3801"><img height=25 src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
 <a href="https://gitlab.com/Nchpg"><img height=25 src="https://img.shields.io/badge/Gitlab-%23FFA32D.svg?logo=gitlab&logoColor=white"/></a>
 
