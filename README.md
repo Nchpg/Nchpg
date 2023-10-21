@@ -2,7 +2,9 @@
 I'm currently studying computer science at EPITA in my second year.
 
 
-<a href="#"><img height=25 src="https://visitcount.itsvg.in/api?id=Nchpg&icon=0&color=0"/></a> <!--START_SECTION:waka-->
+<a href="#"><img height=25 src="https://visitcount.itsvg.in/api?id=Nchpg&icon=0&color=0"/></a> 
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials:
