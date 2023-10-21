@@ -2,11 +2,6 @@
 I'm currently studying computer science at EPITA in my second year.
 
 
-<a href="#"><img height=25 src="https://visitcount.itsvg.in/api?id=Nchpg&icon=0&color=0"/></a> 
-<a href="#"><img height=25 src="https://wakatime.com/badge/user/2dbdfe13-2059-44c8-95d4-e7dca9aafe16.svg"/></a> 
-<a href="#"><img height=25 src="https://badgen.net/github/commits/Nchpg/Nchpg"/></a> 
-<a href="#"><img height=25 src="https://badgen.net/github/last-commit/Nchpg/Nchpg"/></a> 
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2055%20mins-blue)
 
