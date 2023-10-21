@@ -13,15 +13,13 @@ I'm currently studying computer science at EPITA in my second year.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-219-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 101.1 kB Used in GitHub's Storage 
  > 
-> 🏆 43 Contributions in the Year 2023
+> 🏆 47 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,16 +27,6 @@ I'm currently studying computer science at EPITA in my second year.
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-🌆 Daytime                31 commits          ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-🌃 Evening                63 commits          ███████████░░░░░░░░░░░░░░   45.65 % 
-🌙 Night                  29 commits          █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -74,12 +62,8 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Nchpg/Nchpg/main/assets/bar_graph.png)
-
-
- Last Updated on 21/10/2023 22:30:56 UTC
+ Last Updated on 21/10/2023 22:41:32 UTC
 <!--END_SECTION:waka-->
 **[NOTE]** : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
