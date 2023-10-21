@@ -9,15 +9,15 @@ I'm currently studying computer science at EPITA in my second year.
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 101.1 kB Used in GitHub's Storage 
  > 
-> 🏆 31 Contributions in the Year 2023
+> 🏆 34 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -55,7 +55,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2023 21:44:20 UTC
+ Last Updated on 21/10/2023 21:59:27 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials:
