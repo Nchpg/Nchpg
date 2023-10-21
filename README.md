@@ -2,15 +2,12 @@
 I'm currently studying computer science at EPITA in my second year.
 
 
-<a href="#"><img height=25 src="https://visitcount.itsvg.in/api?id=Nchpg&icon=0&color=0"/><img
-  src="https://wakatime.com/badge/user/2dbdfe13-2059-44c8-95d4-e7dca9aafe16.svg"
-  alt="Avinal WakaTime Activity"
-  height=25
-/></a>
+<a href="#"><img height=25 src="https://visitcount.itsvg.in/api?id=Nchpg&icon=0&color=0"/></a> <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Nchpg#3801) 
-[![Gitlab](https://img.shields.io/badge/Gitlab-%23FFA32D.svg?logo=gitlab&logoColor=white)]([https://gitlab.com/Nchpg)
+<a href="https://discord.gg/Nchpg#3801"><img height=25 src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
+<a href="https://gitlab.com/Nchpg"><img height=25 src="https://img.shields.io/badge/Gitlab-%23FFA32D.svg?logo=gitlab&logoColor=white"/></a>
 
 
 
@@ -20,5 +17,6 @@ I'm currently studying computer science at EPITA in my second year.
 
 # 📊 Stats:
 
-<a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nchpg&layout=compact&langs_count=8&card_width=320&theme=dark" /></a>
-<a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nchpg&layout=compact&langs_count=8&card_width=320&theme=dark" /></a>
+<a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nchpg&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true"/></a>
+
+<a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nchpg&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true" /></a>
