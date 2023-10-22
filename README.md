@@ -1,4 +1,4 @@
-<h1>💫 About Me:</h1>
+<h1 style="color:white">💫 About Me:</h1>
 <p>I'm currently studying computer science at EPITA in my second year.</p>
 
 
