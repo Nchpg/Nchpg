@@ -5,7 +5,6 @@ I'm currently studying computer science at EPITA in my second year.
 <a href="https://gitlab.com/Nchpg"><img height=25 src="https://img.shields.io/badge/Gitlab-%23FFA32D.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 
 <br>
-<br>
 
 # 💻 Tech Stack:
 
@@ -32,7 +31,6 @@ I'm currently studying computer science at EPITA in my second year.
 <a href="#">![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</a> 
 
 
-<br>
 <br>
 
 # 📊 Stats:
