@@ -1,12 +1,13 @@
-# 💫 About Me:
-I'm currently studying computer science at EPITA in my second year.
+<h1>💫 About Me:</h1>
+<p>I'm currently studying computer science at EPITA in my second year.</p>
+
 
 <a href="https://discord.gg/Nchpg#3801"><img height=25 src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://gitlab.com/Nchpg"><img height=25 src="https://img.shields.io/badge/Gitlab-%23FFA32D.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 
 <br>
 
-# 💻 Tech Stack:
+<h1>💻 Tech Stack:</h1>
 
 **Languages :**
 
@@ -33,7 +34,7 @@ I'm currently studying computer science at EPITA in my second year.
 
 <br>
 
-# 📊 Stats:
+<h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2055%20mins-blue)
