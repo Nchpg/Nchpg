@@ -42,9 +42,9 @@ I'm currently studying computer science at EPITA in my second year.
 
 **🐱 My GitHub Data** 
 
-> 📦 101.1 kB Used in GitHub's Storage 
+> 📦 101.2 kB Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2023
+> 🏆 53 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,7 +88,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2023 22:41:32 UTC
+ Last Updated on 22/10/2023 18:18:19 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
