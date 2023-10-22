@@ -11,7 +11,7 @@
 
 **Languages :**
 
-<a href="javascript:void(0);">![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</a> 
+<a href="#a">![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</a> 
 <a href="#">![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)</a> 
 <a href="#">![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a> 
 <a href="#">![Ocaml](https://img.shields.io/badge/ocaml-E5E2DE?style=for-the-badge&logo=ocaml&logoColor=FF9308)</a> 
