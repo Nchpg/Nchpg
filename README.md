@@ -92,14 +92,4 @@ C++                      1 repo              ██░░░░░░░░░�
 
  Last Updated on 21/10/2023 22:41:32 UTC
 <!--END_SECTION:waka-->
-###### **[ NOTE ]** : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-
-
-
-
-
-
-
-<!--<a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nchpg&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true"/></a>
-
-<a href="#"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nchpg&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true" /></a>
+<span style="color:green">**[ NOTE ]** : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
