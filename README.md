@@ -45,8 +45,6 @@
 
 > 📦 101.2 kB Used in GitHub's Storage 
  > 
-> 🏆 60 Contributions in the Year 2023
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -87,7 +85,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2023 16:36:39 UTC
+ Last Updated on 31/10/2023 18:35:32 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
