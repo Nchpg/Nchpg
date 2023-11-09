@@ -37,7 +37,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
@@ -59,18 +59,18 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        21 hrs 34 mins      ███████████████████████░░   90.68 % 
-Makefile                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Vim Script               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+C                        20 hrs 21 mins      ███████████████████████░░   92.77 % 
+Makefile                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Vim                      23 hrs 47 mins      █████████████████████████   100.00 % 
+Vim                      21 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      14 hrs 35 mins      ███████████████░░░░░░░░░░   61.28 % 
-Linux                    9 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   38.72 % 
+WSL                      12 hrs 43 mins      ██████████████░░░░░░░░░░░   58.00 % 
+Linux                    9 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   42.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +86,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2023 18:35:36 UTC
+ Last Updated on 09/11/2023 18:35:28 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
