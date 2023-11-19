@@ -3,7 +3,7 @@
 
 
 <a href="https://discord.gg/Nchpg#3801"><img height=25 src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-
+<a href="https://gitlab.com/Nchpg"><img height=25 src="https://img.shields.io/badge/Gitlab-%23FFA32D.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <br>
 
 <h1>💻 Tech Stack:</h1>
@@ -38,7 +38,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2015%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
