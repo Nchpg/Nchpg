@@ -3,7 +3,6 @@
 
 
 <a href="https://discord.gg/Nchpg#3801"><img height=25 src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://gitlab.com/Nchpg"><img height=25 src="https://img.shields.io/badge/Gitlab-%23FFA32D.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 
 <br>
 
