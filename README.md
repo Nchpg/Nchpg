@@ -36,9 +36,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
+![Code Time](https://wakatime.com/badge/user/2dbdfe13-2059-44c8-95d4-e7dca9aafe16.svg)
 
 **🐱 My GitHub Data** 
 
