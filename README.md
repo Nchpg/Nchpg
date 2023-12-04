@@ -36,7 +36,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
@@ -87,7 +87,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2023 18:34:33 UTC
+ Last Updated on 04/12/2023 18:36:22 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
