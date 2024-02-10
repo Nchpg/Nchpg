@@ -58,15 +58,13 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-CSS                      59 mins             █████████████░░░░░░░░░░░░   52.85 % 
-HTML                     53 mins             ████████████░░░░░░░░░░░░░   46.89 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +80,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2024 18:34:20 UTC
+ Last Updated on 10/02/2024 18:35:29 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
