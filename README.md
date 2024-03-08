@@ -58,13 +58,15 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Rust                     1 hr 47 mins        █████████████████████████   100.00 % 
+Rust                     1 hr 47 mins        ████████████████████████░   95.28 % 
+C                        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-Vim                      1 hr 47 mins        █████████████████████████   100.00 % 
+Vim                      1 hr 52 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      1 hr 47 mins        █████████████████████████   100.00 % 
+WSL                      1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +82,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2024 18:34:38 UTC
+ Last Updated on 08/03/2024 18:34:26 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
