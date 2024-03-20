@@ -36,7 +36,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
@@ -50,7 +50,7 @@
  > 
 > 📜 6 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -58,17 +58,15 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   41.19 % 
-C                        29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Python                   29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Vim Script               29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+C                        3 hrs 35 mins       ██████████████████████░░░   86.62 % 
+Python                   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-Vim                      2 hrs 31 mins       █████████████████████████   100.00 % 
+Vim                      4 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      2 hrs 31 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +82,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2024 18:34:32 UTC
+ Last Updated on 20/03/2024 18:35:24 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
