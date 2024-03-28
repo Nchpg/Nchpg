@@ -36,15 +36,13 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 101.5 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,19 +56,19 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        3 hrs 47 mins       █████████████████████░░░░   83.58 % 
-Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+C                        3 hrs 35 mins       ████████████████████░░░░░   81.46 % 
+Python                   39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 Vim Script               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Vim                      3 hrs 56 mins       ██████████████████████░░░   86.89 % 
-PyCharm                  35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Vim                      3 hrs 44 mins       █████████████████████░░░░   84.86 % 
+PyCharm                  40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 
 💻 Operating System: 
-WSL                      3 hrs 56 mins       ██████████████████████░░░   86.89 % 
-Windows                  35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+WSL                      3 hrs 44 mins       █████████████████████░░░░   84.86 % 
+Windows                  40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +84,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/03/2024 18:34:57 UTC
+ Last Updated on 28/03/2024 18:35:41 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
