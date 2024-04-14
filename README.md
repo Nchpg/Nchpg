@@ -36,8 +36,6 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%209%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -50,29 +48,6 @@
  > 
 > 🔑 11 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-C                        3 hrs 38 mins       █████████████░░░░░░░░░░░░   53.70 % 
-Python                   2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.19 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-SSH Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-
-🔥 Editors: 
-Vim                      5 hrs 57 mins       ██████████████████████░░░   87.69 % 
-PyCharm                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-
-💻 Operating System: 
-WSL                      3 hrs 50 mins       ██████████████░░░░░░░░░░░   56.54 % 
-Linux                    2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.14 % 
-Windows                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -86,7 +61,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2024 18:34:58 UTC
+ Last Updated on 14/04/2024 22:58:05 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
