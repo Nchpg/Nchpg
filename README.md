@@ -36,15 +36,13 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 101.5 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,19 +56,19 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   3 hrs               ████████████░░░░░░░░░░░░░   48.01 % 
-C                        2 hrs 53 mins       ████████████░░░░░░░░░░░░░   46.17 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   7 hrs 52 mins       █████████████████░░░░░░░░   69.71 % 
+C                        2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Vim                      3 hrs 9 mins        █████████████░░░░░░░░░░░░   50.36 % 
-PyCharm                  3 hrs 6 mins        ████████████░░░░░░░░░░░░░   49.64 % 
+PyCharm                  8 hrs 8 mins        ██████████████████░░░░░░░   72.04 % 
+Vim                      3 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.96 % 
 
 💻 Operating System: 
-WSL                      3 hrs 9 mins        █████████████░░░░░░░░░░░░   50.36 % 
-Windows                  3 hrs 6 mins        ████████████░░░░░░░░░░░░░   49.64 % 
+Windows                  8 hrs 8 mins        ██████████████████░░░░░░░   72.04 % 
+WSL                      3 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.96 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +84,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2024 18:35:42 UTC
+ Last Updated on 27/04/2024 18:35:02 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
