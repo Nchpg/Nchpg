@@ -36,13 +36,15 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 131.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 6 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,16 +58,19 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        11 hrs 18 mins      █████████████████████████   99.13 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+C                        10 hrs 30 mins      ████████████████████████░   95.03 % 
+Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Vim                      11 hrs 24 mins      █████████████████████████   100.00 % 
+Vim                      10 hrs 36 mins      ████████████████████████░   95.93 % 
+PyCharm                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 💻 Operating System: 
-WSL                      11 hrs 24 mins      █████████████████████████   100.00 % 
+WSL                      10 hrs 36 mins      ████████████████████████░   95.93 % 
+Windows                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +86,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2024 18:36:59 UTC
+ Last Updated on 23/05/2024 18:36:36 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
