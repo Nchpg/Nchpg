@@ -44,6 +44,8 @@
 
 > 📦 131.2 kB Used in GitHub's Storage 
  > 
+> 🏆 6 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -84,7 +86,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2024 18:35:25 UTC
+ Last Updated on 26/05/2024 18:35:45 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
