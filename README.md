@@ -44,8 +44,6 @@
 
 > 📦 258.6 kB Used in GitHub's Storage 
  > 
-> 🏆 13 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -58,15 +56,15 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        6 hrs 11 mins       █████████████████████████   99.00 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+C                        9 hrs 53 mins       █████████████████████████   98.33 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-Vim                      6 hrs 15 mins       █████████████████████████   100.00 % 
+Vim                      10 hrs 3 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      6 hrs 15 mins       █████████████████████████   100.00 % 
+WSL                      10 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +80,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 18:37:16 UTC
+ Last Updated on 17/06/2024 18:37:40 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
