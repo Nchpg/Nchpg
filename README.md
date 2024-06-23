@@ -36,7 +36,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
@@ -56,15 +56,19 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        8 hrs 32 mins       █████████████████████████   98.62 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Dart                     7 hrs 23 mins       ████████████████░░░░░░░░░   65.41 % 
+C                        3 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.73 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Vim                      8 hrs 39 mins       █████████████████████████   100.00 % 
+Android Studio           7 hrs 30 mins       █████████████████░░░░░░░░   66.34 % 
+Vim                      3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.66 % 
 
 💻 Operating System: 
-WSL                      8 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 30 mins       █████████████████░░░░░░░░   66.34 % 
+WSL                      3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.66 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +84,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2024 18:36:22 UTC
+ Last Updated on 23/06/2024 18:36:10 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
