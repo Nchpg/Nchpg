@@ -56,7 +56,8 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-systemd                  0 secs              █████████████████████████   100.00 % 
+sshdconfig               0 secs              █████████████░░░░░░░░░░░░   51.87 % 
+systemd                  0 secs              ████████████░░░░░░░░░░░░░   48.13 % 
 
 🔥 Editors: 
 Vim                      0 secs              █████████████████████████   100.00 % 
@@ -78,7 +79,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2024 18:39:01 UTC
+ Last Updated on 17/07/2024 18:39:55 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
