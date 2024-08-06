@@ -44,6 +44,8 @@
 
 > 📦 258.7 kB Used in GitHub's Storage 
  > 
+> 🏆 13 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -78,7 +80,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2024 18:39:45 UTC
+ Last Updated on 06/08/2024 18:40:27 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
