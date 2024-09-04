@@ -36,7 +36,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
@@ -56,17 +56,17 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        3 hrs 7 mins        ███████████████░░░░░░░░░░   58.53 % 
-Makefile                 1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   31.68 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Assembly                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+C                        2 hrs 17 mins       █████████████░░░░░░░░░░░░   52.30 % 
+Makefile                 1 hr 41 mins        ██████████░░░░░░░░░░░░░░░   38.72 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Assembly                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Vim Script               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-Vim                      5 hrs 20 mins       █████████████████████████   100.00 % 
+Vim                      4 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      5 hrs 20 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +82,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2024 18:41:19 UTC
+ Last Updated on 04/09/2024 18:39:50 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
