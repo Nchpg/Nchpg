@@ -58,13 +58,13 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -80,7 +80,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2024 18:42:40 UTC
+ Last Updated on 17/09/2024 18:42:07 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
