@@ -36,13 +36,15 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-461%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 258.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 13 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,18 +58,19 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        55 hrs 26 mins      ████████████████████████░   95.52 % 
-Makefile                 1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-snippets                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Vim Script               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+C                        56 hrs 2 mins       ████████████████████████░   94.05 % 
+Makefile                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Other                    39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+snippets                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-Vim                      58 hrs 3 mins       █████████████████████████   100.00 % 
+Vim                      59 hrs 18 mins      █████████████████████████   99.54 % 
+Unknown Editor           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Linux                    52 hrs 52 mins      ███████████████████████░░   91.09 % 
-WSL                      5 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Linux                    54 hrs 24 mins      ███████████████████████░░   91.32 % 
+WSL                      5 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +86,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2024 18:42:06 UTC
+ Last Updated on 09/10/2024 18:43:16 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
