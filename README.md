@@ -36,15 +36,13 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 258.7 kB Used in GitHub's Storage 
- > 
-> 🏆 13 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,18 +56,18 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        12 hrs 13 mins      █████████████░░░░░░░░░░░░   50.73 % 
-Bash                     7 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.10 % 
-Nix                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-swayconfig               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Makefile                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+C                        21 hrs 56 mins      ███████████████░░░░░░░░░░   59.42 % 
+Bash                     9 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+Nix                      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+swayconfig               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Makefile                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-Vim                      24 hrs 6 mins       █████████████████████████   100.00 % 
+Vim                      36 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    23 hrs 41 mins      █████████████████████████   98.24 % 
-WSL                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Linux                    36 hrs 29 mins      █████████████████████████   98.85 % 
+WSL                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +83,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2024 18:43:53 UTC
+ Last Updated on 31/10/2024 18:43:44 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
