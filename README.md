@@ -36,7 +36,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-562%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
@@ -58,17 +58,17 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        28 hrs 57 mins      ███████████████████░░░░░░   77.57 % 
-Bash                     6 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Makefile                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Nix                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+C                        27 hrs 48 mins      ████████████████████░░░░░   78.09 % 
+Bash                     6 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Makefile                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+sh                       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-Vim                      37 hrs 19 mins      █████████████████████████   100.00 % 
+Vim                      35 hrs 36 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    37 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    35 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2024 18:42:24 UTC
+ Last Updated on 05/11/2024 18:42:43 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
