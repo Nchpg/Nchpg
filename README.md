@@ -36,7 +36,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
@@ -58,17 +58,17 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        24 hrs 34 mins      ████████████████████░░░░░   78.56 % 
-Meson                    1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Java                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Assembly                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Nix                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+C                        19 hrs 1 min        ████████████████████░░░░░   78.18 % 
+Java                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Meson                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Nix                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 🔥 Editors: 
-Vim                      31 hrs 16 mins      █████████████████████████   100.00 % 
+Vim                      24 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    31 hrs 16 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/11/2024 18:44:28 UTC
+ Last Updated on 29/11/2024 18:44:35 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
