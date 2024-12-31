@@ -11,8 +11,6 @@
 
 > 📦 263.2 kB Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -25,15 +23,15 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   3 hrs 54 mins       █████████████████████░░░░   85.39 % 
-Text                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Python                   3 hrs 5 mins        █████████████████████░░░░   82.36 % 
+Text                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 34 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -49,7 +47,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2024 18:42:57 UTC
+ Last Updated on 31/12/2024 18:41:29 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
