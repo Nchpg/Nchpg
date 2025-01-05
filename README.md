@@ -3,15 +3,13 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-698%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 263.2 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,7 +45,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2025 18:41:00 UTC
+ Last Updated on 05/01/2025 18:40:34 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
