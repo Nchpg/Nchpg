@@ -3,15 +3,13 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 287.9 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,19 +23,18 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C++                      4 hrs 59 mins       ███████████████░░░░░░░░░░   61.46 % 
-Python                   2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.66 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-SSH Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-sshconfig                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+C++                      4 hrs 56 mins       ██████████████████████░░░   88.83 % 
+Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 2 mins        █████████████████████████   99.21 % 
-Vim                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+VS Code                  5 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      5 hrs 14 mins       ████████████████░░░░░░░░░   64.64 % 
-Windows                  2 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.36 % 
+WSL                      5 hrs 8 mins        ███████████████████████░░   92.32 % 
+Windows                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 ```
 
 **I Mostly Code in Python** 
@@ -53,7 +50,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2025 18:42:44 UTC
+ Last Updated on 06/04/2025 18:43:27 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
