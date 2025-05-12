@@ -3,7 +3,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-870%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
@@ -42,17 +42,17 @@ WSL                      4 hrs 3 mins        ██████████░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 11/05/2025 18:44:38 UTC
+ Last Updated on 12/05/2025 18:49:31 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
