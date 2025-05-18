@@ -11,6 +11,8 @@
 
 > 📦 288.0 kB Used in GitHub's Storage 
  > 
+> 🏆 12 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -41,16 +43,16 @@ WSL                      2 hrs 5 mins        ███████████�
 
 ```text
 Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
 
 
- Last Updated on 17/05/2025 18:45:55 UTC
+ Last Updated on 18/05/2025 18:45:56 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
