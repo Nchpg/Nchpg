@@ -3,13 +3,15 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-940%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 288.1 kB Used in GitHub's Storage 
+> 📦 310.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 12 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,18 +25,18 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   16 hrs 12 mins      █████████████████████████   98.31 % 
-Ada                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   9 hrs 56 mins       ███████████████████████░░   93.09 % 
+Java                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+C++                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Ada                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 14 mins      █████████████████████████   98.45 % 
-Vim                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+VS Code                  10 hrs 25 mins      ████████████████████████░   97.60 % 
+Vim                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 💻 Operating System: 
-WSL                      16 hrs 29 mins      █████████████████████████   100.00 % 
+WSL                      10 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -50,7 +52,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2025 18:51:07 UTC
+ Last Updated on 12/06/2025 18:50:10 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
