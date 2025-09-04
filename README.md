@@ -3,7 +3,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-949%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-949%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
 
@@ -23,13 +23,16 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TOML                     17 mins             ██████████████░░░░░░░░░░░   57.21 % 
+YAML                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+Git Config               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Docker                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -45,7 +48,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2025 18:46:16 UTC
+ Last Updated on 04/09/2025 18:48:17 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
