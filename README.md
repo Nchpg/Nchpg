@@ -9,7 +9,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 326.3 kB Used in GitHub's Storage 
+> 📦 326.4 kB Used in GitHub's Storage 
  > 
 > 🏆 18 Contributions in the Year 2025
  > 
@@ -25,17 +25,15 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   33.74 % 
-conf                     56 mins             ████████░░░░░░░░░░░░░░░░░   30.72 % 
-Bash                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-sshdconfig               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-messages                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Bash                     31 mins             ███████████████████████░░   91.33 % 
+conf                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Vim                      3 hrs 4 mins        █████████████████████████   100.00 % 
+Vim                      34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    34 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,7 +49,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2025 18:49:30 UTC
+ Last Updated on 07/10/2025 18:50:34 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
