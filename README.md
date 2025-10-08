@@ -25,15 +25,14 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Bash                     31 mins             ███████████████████████░░   91.33 % 
-conf                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Bash                     26 mins             █████████████████████████   99.68 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-Vim                      34 mins             █████████████████████████   100.00 % 
+Vim                      26 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    34 mins             █████████████████████████   100.00 % 
+Linux                    26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -49,7 +48,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2025 18:50:34 UTC
+ Last Updated on 08/10/2025 18:50:42 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
