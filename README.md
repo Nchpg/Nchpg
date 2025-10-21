@@ -3,7 +3,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-954%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-955%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
 
@@ -25,13 +25,17 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 9 mins         █████████████████████████   99.74 % 
+Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 9 mins         █████████████████████████   99.81 % 
+Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 9 mins         █████████████████████████   99.81 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 **I Mostly Code in Python** 
@@ -47,7 +51,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2025 18:52:33 UTC
+ Last Updated on 21/10/2025 18:51:07 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
