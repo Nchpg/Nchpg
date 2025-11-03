@@ -19,25 +19,6 @@
  > 
 > 🔑 32 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Other                    33 mins             ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-Bash                     29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-Vim Script               26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-zsh                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-swayconfig               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-
-🔥 Editors: 
-Vim                      1 hr 59 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    1 hr 59 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -51,7 +32,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 18:45:29 UTC
+ Last Updated on 03/11/2025 18:48:05 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
