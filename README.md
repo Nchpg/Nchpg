@@ -9,9 +9,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 326.5 kB Used in GitHub's Storage 
+> 📦 326.4 kB Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2025
+> 🏆 47 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -19,20 +19,38 @@
  > 
 > 🔑 32 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+Python                   7 mins              ██████████████████████░░░   87.81 % 
+C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+gitignore                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+
+🔥 Editors: 
+Vim                      8 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    8 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
 Python                   12 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
 JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Vim Script               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Nix                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 03/11/2025 18:48:05 UTC
+ Last Updated on 04/11/2025 18:51:19 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
