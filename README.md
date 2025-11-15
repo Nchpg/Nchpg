@@ -3,7 +3,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-964%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
 
@@ -25,17 +25,17 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        3 hrs 45 mins       ████████████████░░░░░░░░░   62.64 % 
-Nix                      56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-XML                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+C                        3 hrs 47 mins       ██████████████░░░░░░░░░░░   55.15 % 
+Nix                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+XML                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 🔥 Editors: 
-Vim                      6 hrs               █████████████████████████   100.00 % 
+Vim                      6 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs               █████████████████████████   100.00 % 
+Linux                    6 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,7 +51,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2025 18:52:07 UTC
+ Last Updated on 15/11/2025 18:46:50 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
