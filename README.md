@@ -25,15 +25,14 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   3 hrs 50 mins       ████████████████████████░   97.85 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   3 hrs 26 mins       ████████████████████████░   97.93 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 55 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -49,7 +48,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2025 18:50:25 UTC
+ Last Updated on 15/12/2025 18:56:55 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
