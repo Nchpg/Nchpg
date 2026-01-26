@@ -3,7 +3,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-994%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-994%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.84%20million%20lines%20of%20code-blue?style=flat)
 
@@ -11,7 +11,7 @@
 
 > 📦 326.7 kB Used in GitHub's Storage 
  > 
-> 🏆 9 Contributions in the Year 2026
+> 🏆 11 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,17 +25,17 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Bash                     1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   41.56 % 
-Python                   23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-TOML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-sh                       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Bash                     1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   41.67 % 
+Python                   23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+TOML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+sh                       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 
 🔥 Editors: 
-Vim                      2 hrs 30 mins       █████████████████████████   100.00 % 
+Vim                      2 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,7 +51,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2026 18:53:50 UTC
+ Last Updated on 26/01/2026 19:02:45 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
