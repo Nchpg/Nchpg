@@ -3,15 +3,15 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C050%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C052%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 327.5 kB Used in GitHub's Storage 
+> 📦 327.6 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2026
+> 🏆 28 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,8 +25,8 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Nix                      34 mins             ████████████░░░░░░░░░░░░░   48.49 % 
-JavaScript               33 mins             ████████████░░░░░░░░░░░░░   47.52 % 
+Nix                      34 mins             ████████████░░░░░░░░░░░░░   48.52 % 
+JavaScript               33 mins             ████████████░░░░░░░░░░░░░   47.50 % 
 Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
@@ -51,7 +51,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/03/2026 19:43:44 UTC
+ Last Updated on 06/03/2026 19:11:11 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
