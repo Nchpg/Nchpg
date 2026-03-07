@@ -3,13 +3,13 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C052%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C052%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 327.6 kB Used in GitHub's Storage 
+> 📦 327.7 kB Used in GitHub's Storage 
  > 
 > 🏆 28 Contributions in the Year 2026
  > 
@@ -25,17 +25,19 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Nix                      34 mins             ████████████░░░░░░░░░░░░░   48.52 % 
-JavaScript               33 mins             ████████████░░░░░░░░░░░░░   47.50 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Python                   40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+JavaScript               34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Nix                      34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Docker                   24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+YAML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 
 🔥 Editors: 
-Vim                      1 hr 10 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 25 mins        █████████████░░░░░░░░░░░░   50.28 % 
+Vim                      1 hr 24 mins        ████████████░░░░░░░░░░░░░   49.72 % 
 
 💻 Operating System: 
-Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 25 mins        █████████████░░░░░░░░░░░░   50.28 % 
+Linux                    1 hr 24 mins        ████████████░░░░░░░░░░░░░   49.72 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,7 +53,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2026 19:11:11 UTC
+ Last Updated on 07/03/2026 18:57:52 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
