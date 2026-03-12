@@ -3,7 +3,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C055%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C057%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.84%20million%20lines%20of%20code-blue?style=flat)
 
@@ -25,35 +25,36 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   2 hrs 33 mins       ████████████░░░░░░░░░░░░░   46.19 % 
-YAML                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-JavaScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Docker                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Python                   3 hrs 30 mins       ███████████████░░░░░░░░░░   59.19 % 
+YAML                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Docker                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Nginx configuration file 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-Vim                      4 hrs 5 mins        ███████████████████░░░░░░   74.16 % 
-VS Code                  1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+Vim                      3 hrs 35 mins       ███████████████░░░░░░░░░░   60.54 % 
+VS Code                  1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+PyCharm                  54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
 
 💻 Operating System: 
-Linux                    4 hrs 5 mins        ███████████████████░░░░░░   74.16 % 
-Windows                  1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+Linux                    3 hrs 35 mins       ███████████████░░░░░░░░░░   60.54 % 
+Windows                  2 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   39.46 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Nix                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   14 repos            ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Nix                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 
 
 
 
- Last Updated on 11/03/2026 19:17:24 UTC
+ Last Updated on 12/03/2026 19:25:57 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
