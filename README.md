@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C063%20hrs%2059%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.84%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.85%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -17,7 +17,7 @@
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 32 Private Repositories 
+> 🔑 33 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -43,17 +43,17 @@ WSL                      12 mins             ████░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Nix                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Python                   15 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Nix                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on 22/03/2026 19:03:15 UTC
+ Last Updated on 23/03/2026 19:29:15 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
