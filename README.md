@@ -3,13 +3,13 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C065%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C065%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.85%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 327.7 kB Used in GitHub's Storage 
+> 📦 328.0 kB Used in GitHub's Storage 
  > 
 > 🏆 28 Contributions in the Year 2026
  > 
@@ -25,35 +25,33 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-CSV                      1 hr 12 mins        ██████████████░░░░░░░░░░░   57.51 % 
-Python                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Text                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Scala                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+CSV                      1 hr 12 mins        ████████████████░░░░░░░░░   64.00 % 
+Python                   20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Text                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-Vim                      1 hr 54 mins        ███████████████████████░░   90.31 % 
-VS Code                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Vim                      1 hr 54 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 54 mins        ██████████████████████░░░   89.86 % 
-WSL                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Linux                    1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Nix                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   15 repos            ████████░░░░░░░░░░░░░░░░░   30.61 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Nix                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 
 
 
 
- Last Updated on 27/03/2026 19:25:04 UTC
+ Last Updated on 28/03/2026 19:09:09 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
