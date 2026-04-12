@@ -3,7 +3,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C075%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C075%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.86%20million%20lines%20of%20code-blue?style=flat)
 
@@ -54,7 +54,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2026 19:12:46 UTC
+ Last Updated on 12/04/2026 19:15:28 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
