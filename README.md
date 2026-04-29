@@ -25,33 +25,33 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Java                     2 hrs 49 mins       ███████████████░░░░░░░░░░   59.48 % 
-Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Java Properties          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-gitrebase                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Java                     2 hrs 49 mins       ███████████████░░░░░░░░░░   59.97 % 
+Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Java Properties          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+gitrebase                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 🔥 Editors: 
-Vim                      4 hrs 45 mins       █████████████████████████   100.00 % 
+Vim                      4 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   16 repos            ████████░░░░░░░░░░░░░░░░░   31.37 % 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Nix                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Python                   16 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Nix                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Mermaid                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
 
 
- Last Updated on 28/04/2026 20:02:44 UTC
+ Last Updated on 29/04/2026 20:01:37 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
