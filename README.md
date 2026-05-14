@@ -3,7 +3,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.90%20million%20lines%20of%20code-blue?style=flat)
 
@@ -25,18 +25,18 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C++                      11 hrs 52 mins      █████████████████████░░░░   84.76 % 
-CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Makefile                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+C++                      6 hrs 39 mins       ████████████████████░░░░░   81.44 % 
+CSS                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Makefile                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-Vim                      14 hrs 1 min        █████████████████████████   100.00 % 
+Vim                      8 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 1 min        █████████████████████████   99.98 % 
-WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Linux                    8 hrs 10 mins       █████████████████████████   99.97 % 
+WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **I Mostly Code in Python** 
@@ -52,7 +52,7 @@ Mermaid                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2026 20:19:44 UTC
+ Last Updated on 14/05/2026 20:15:10 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
