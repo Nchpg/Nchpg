@@ -3,15 +3,15 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C138%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.90%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 359.1 kB Used in GitHub's Storage 
+> 📦 395.6 kB Used in GitHub's Storage 
  > 
-> 🏆 111 Contributions in the Year 2026
+> 🏆 112 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,36 +25,36 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Nix                      40 mins             ████████░░░░░░░░░░░░░░░░░   30.80 % 
-CSS                      38 mins             ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-JavaScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-gitignore                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+TypeScript               2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.14 % 
+JSON                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+CSS                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Nix                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 
 🔥 Editors: 
-Vim                      1 hr 24 mins        ████████████████░░░░░░░░░   64.71 % 
-Unknown Editor           41 mins             ████████░░░░░░░░░░░░░░░░░   31.97 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Unknown Editor           6 hrs 2 mins        ████████████████████░░░░░   79.87 % 
+Vim                      1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Linux                    2 hrs 5 mins        ████████████████████████░   96.68 % 
-Windows                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Linux                    7 hrs 29 mins       █████████████████████████   99.05 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Mermaid                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Mermaid                  1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
 
 
- Last Updated on 17/05/2026 19:45:55 UTC
+ Last Updated on 18/05/2026 20:14:43 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
