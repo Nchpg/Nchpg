@@ -3,7 +3,9 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.95%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs%2052%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -23,20 +25,20 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-CSS                      8 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-JavaScript               7 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-TypeScript               6 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-Python                   2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Nix                      2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+CSS                      8 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+TypeScript               7 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+JavaScript               7 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Python                   2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Scala                    1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-Claude Code              34 hrs 47 mins      ████████████████████████░   95.89 % 
-Vim                      1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Claude Code              35 hrs 41 mins      ████████████████████████░   96.46 % 
+Vim                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Linux                    30 hrs 10 mins      █████████████████████░░░░   83.13 % 
-WSL                      6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Linux                    30 hrs 53 mins      █████████████████████░░░░   83.46 % 
+WSL                      6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
 ```
 
 **I Mostly Code in Python** 
@@ -52,7 +54,7 @@ Mermaid                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2026 20:22:11 UTC
+ Last Updated on 23/05/2026 19:47:54 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
