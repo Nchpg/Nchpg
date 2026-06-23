@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C234%20hrs%2049%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.56%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 450.6 kB Used in GitHub's Storage 
+> 📦 450.8 kB Used in GitHub's Storage 
  > 
-> 🏆 306 Contributions in the Year 2026
+> 🏆 310 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,21 +25,21 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Nix                      7 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-Markdown                 6 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-Other                    5 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-TeX                      1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-TypeScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Other                    6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.74 % 
+Markdown                 5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+Nix                      4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Python                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+TypeScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 35 mins      ██████████████░░░░░░░░░░░   57.66 % 
-VS Code                  8 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.52 % 
-Manual Test              1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Vim                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Neovim                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+VS Code                  10 hrs 46 mins      █████████████░░░░░░░░░░░░   51.57 % 
+Claude Code              8 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.47 % 
+Manual Test              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Vim                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Neovim                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 💻 Operating System: 
-Linux                    25 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,7 +55,7 @@ Mermaid                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2026 21:38:29 UTC
+ Last Updated on 23/06/2026 20:50:19 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
