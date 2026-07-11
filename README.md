@@ -3,9 +3,9 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C312%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C312%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.82%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.28%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -25,20 +25,20 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Nix                      8 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-TeX                      8 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-Python                   6 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Markdown                 3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Bash                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Nix                      8 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+TeX                      8 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Python                   7 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Bash                     3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Scala                    2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 22 mins      ███████████████░░░░░░░░░░   61.72 % 
-Claude Code              14 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   36.25 % 
-Neovim                   46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+VS Code                  22 hrs 45 mins      ██████████████░░░░░░░░░░░   57.76 % 
+Claude Code              15 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   40.15 % 
+Neovim                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Linux                    39 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,7 +54,7 @@ Mermaid                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2026 20:37:55 UTC
+ Last Updated on 11/07/2026 20:20:44 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
