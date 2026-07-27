@@ -3,15 +3,17 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C437%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C395%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.02%20million%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-351%20hrs%2052%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.35%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 477.6 kB Used in GitHub's Storage 
+> 📦 477.7 kB Used in GitHub's Storage 
  > 
-> 🏆 567 Contributions in the Year 2026
+> 🏆 578 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,19 +27,45 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Nix                      10 hrs 11 mins      ████████████░░░░░░░░░░░░░   46.18 % 
-TypeScript               3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Python                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Bash                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-YAML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Nix                      8 hrs 30 mins       ███████████░░░░░░░░░░░░░░   45.51 % 
+TypeScript               5 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+Bash                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+env                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 Editors: 
-Claude Code              12 hrs              ██████████████░░░░░░░░░░░   54.46 % 
-VS Code                  8 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.81 % 
-Neovim                   1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Claude Code              11 hrs 2 mins       ███████████████░░░░░░░░░░   59.05 % 
+VS Code                  6 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.39 % 
+Neovim                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 
 💻 Operating System: 
-Linux                    22 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    18 hrs 41 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 17 hrs 31 mins (93.82%)
+
+✍️ 6,520 lines written by AI, 15 lines written by hand (99.77% AI-written)
+
+🔤 534,262,699 Input Tokens, 1,138,112 Output Tokens
+
+💵 $2062.91 Estimated AI Cost This Week
+
+🧠 15 AI Sessions, 307 AI Prompts
+
+Opus                     4,448 lines         █████████████░░░░░░░░░░░░   50.12 % 
+Claude                   3,650 lines         ██████████░░░░░░░░░░░░░░░   41.13 % 
+Sonnet                   772 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+OpenCode                 4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.77% of written lines came from AI
+📝 Concise Prompter — average 183 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 0.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -53,7 +81,7 @@ Mermaid                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 20:49:01 UTC
+ Last Updated on 27/07/2026 21:10:57 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
