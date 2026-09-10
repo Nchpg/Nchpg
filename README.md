@@ -3,7 +3,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C404%20hrs%2053%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -23,18 +23,19 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   2 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   38.66 % 
-TeX                      1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-JSON                     1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Makefile                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Python                   6 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.19 % 
+JSON                     5 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+TeX                      3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+JavaScript               1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 2 mins        ███████████████░░░░░░░░░░   61.47 % 
-Claude Code              2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.53 % 
+Claude Code              17 hrs 7 mins       ███████████████████░░░░░░   76.86 % 
+VS Code                  5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Neovim                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Linux                    6 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    22 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -50,7 +51,7 @@ Nix                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 21:03:09 UTC
+ Last Updated on 10/09/2026 21:02:13 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
