@@ -3,7 +3,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C407%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C408%20hrs%2046%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -23,17 +23,17 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    6 hrs 18 mins       ███████████████████░░░░░░   74.57 % 
-Text                     1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-TeX                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Other                    7 hrs 13 mins       ████████████████████░░░░░   80.58 % 
+Cuda                     1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 47 mins       ████████████████████░░░░░   80.40 % 
-VS Code                  1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Claude Code              7 hrs 41 mins       █████████████████████░░░░   85.78 % 
+Neovim                   1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 
 💻 Operating System: 
-Linux                    8 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -49,7 +49,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 21:34:45 UTC
+ Last Updated on 18/09/2026 21:04:42 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
