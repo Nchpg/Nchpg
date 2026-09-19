@@ -23,17 +23,17 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    7 hrs 13 mins       ████████████████████░░░░░   80.58 % 
-Cuda                     1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Other                    6 hrs 26 mins       ████████████████████░░░░░   78.69 % 
+Cuda                     1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 41 mins       █████████████████████░░░░   85.78 % 
-Neovim                   1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Claude Code              6 hrs 54 mins       █████████████████████░░░░   84.40 % 
+Neovim                   1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
 
 💻 Operating System: 
-Linux                    8 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -49,7 +49,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 21:04:42 UTC
+ Last Updated on 19/09/2026 20:53:37 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
