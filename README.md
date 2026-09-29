@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 541.0 kB Used in GitHub's Storage 
+> 📦 541.1 kB Used in GitHub's Storage 
  > 
 > 🏆 375 Contributions in the Year 2026
  > 
@@ -23,19 +23,19 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   35.89 % 
-Other                    1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   30.24 % 
-Nix                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-TeX                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Typst                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Python                   1 hr 17 mins        ███████████░░░░░░░░░░░░░░   44.84 % 
+Nix                      34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+TeX                      33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Typst                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 35 mins       █████████████████████░░░░   83.20 % 
-Neovim                   42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Claude Code              2 hrs 13 mins       ███████████████████░░░░░░   77.18 % 
+Neovim                   38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+Vim                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Linux                    4 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,7 +51,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 23:25:27 UTC
+ Last Updated on 29/09/2026 22:29:27 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
