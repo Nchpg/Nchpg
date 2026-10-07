@@ -23,19 +23,19 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
-Python                   2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-Typst                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-C++                      54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+TypeScript               2 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Python                   2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.19 % 
+Typst                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+C++                      54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 56 mins       ███████████████████░░░░░░   77.95 % 
-VS Code                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Neovim                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Claude Code              6 hrs 41 mins       ███████████████████░░░░░░   77.34 % 
+VS Code                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Neovim                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 
 💻 Operating System: 
-Linux                    8 hrs 54 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,7 +51,7 @@ Nix                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 22:43:31 UTC
+ Last Updated on 07/10/2026 23:13:43 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
