@@ -3,11 +3,11 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C418%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C420%20hrs%2049%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 543.1 kB Used in GitHub's Storage 
+> 📦 543.4 kB Used in GitHub's Storage 
  > 
 > 🏆 377 Contributions in the Year 2026
  > 
@@ -23,19 +23,19 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   3 hrs 21 mins       █████████████████░░░░░░░░   68.13 % 
-Typst                    1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-Nix                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Makefile                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Python                   1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   36.04 % 
+Bash                     57 mins             ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+Nix                      37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Other                    32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-Claude Code              3 hrs               ███████████████░░░░░░░░░░   61.14 % 
-VS Code                  1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-Neovim                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Claude Code              2 hrs 37 mins       ███████████████████░░░░░░   74.03 % 
+Neovim                   46 mins             ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 💻 Operating System: 
-Linux                    4 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,7 +51,7 @@ Nix                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 00:53:20 UTC
+ Last Updated on 13/10/2026 22:59:13 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
