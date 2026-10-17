@@ -3,7 +3,7 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C429%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C430%20hrs%2023%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -23,16 +23,16 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Nix                      7 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.39 % 
-Bash                     3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Python                   2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Nix                      8 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.33 % 
+Bash                     3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Python                   2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Markdown                 1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 Text                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 54 mins      █████████████████████░░░░   85.66 % 
-VS Code                  2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Neovim                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Claude Code              15 hrs 16 mins      █████████████████████░░░░   82.30 % 
+VS Code                  2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Neovim                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 💻 Operating System: 
 Linux                    18 hrs 33 mins      █████████████████████████   100.00 % 
@@ -51,7 +51,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 21:28:20 UTC
+ Last Updated on 17/10/2026 20:47:31 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
