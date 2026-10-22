@@ -9,7 +9,7 @@
 
 > 📦 544.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,463 Contributions in the Year 2026
+> 🏆 1,480 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -23,19 +23,19 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Nix                      2 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.35 % 
-Python                   2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.15 % 
-Other                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Text                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Bash                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Python                   2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.84 % 
+Nix                      1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   38.23 % 
+Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       ████████████░░░░░░░░░░░░░   49.82 % 
-Claude Code              3 hrs 13 mins       ████████████░░░░░░░░░░░░░   49.40 % 
-Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+VS Code                  3 hrs 15 mins       ████████████████░░░░░░░░░   65.31 % 
+Claude Code              1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   33.72 % 
+Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
-Linux                    6 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,7 +51,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 21:52:12 UTC
+ Last Updated on 22/10/2026 21:49:26 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
