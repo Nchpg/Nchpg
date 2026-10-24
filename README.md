@@ -3,13 +3,13 @@
 <h1>📊 Stats:</h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C430%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C431%20hrs%2046%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 544.0 kB Used in GitHub's Storage 
+> 📦 544.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,538 Contributions in the Year 2026
+> 🏆 1,585 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -23,20 +23,20 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    5 hrs 12 mins       █████████████████░░░░░░░░   69.63 % 
-Nix                      52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Other                    5 hrs 29 mins       ███████████████████░░░░░░   75.79 % 
+Python                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 56 mins       ████████████████████░░░░░   79.46 % 
-VS Code                  1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Codex CLI                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Claude Code              5 hrs 59 mins       █████████████████████░░░░   82.85 % 
+Neovim                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Codex CLI                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 💻 Operating System: 
-Linux                    7 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -52,7 +52,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 21:33:14 UTC
+ Last Updated on 24/10/2026 21:01:23 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
