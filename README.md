@@ -7,9 +7,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 544.2 kB Used in GitHub's Storage 
+> 📦 544.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,612 Contributions in the Year 2026
+> 🏆 1,660 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -23,20 +23,19 @@
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    5 hrs 7 mins        ██████████████████░░░░░░░   72.02 % 
-Python                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Other                    3 hrs 20 mins       █████████████████░░░░░░░░   67.44 % 
+Python                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 59 mins       █████████████████████░░░░   84.30 % 
-Neovim                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Codex CLI                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Claude Code              4 hrs 12 mins       █████████████████████░░░░   85.12 % 
+Neovim                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 💻 Operating System: 
-Linux                    7 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    4 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -52,7 +51,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 22:27:43 UTC
+ Last Updated on 28/10/2026 22:44:12 UTC
 <!--END_SECTION:waka-->
 
  > [Note] : Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</span>
